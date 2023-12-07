@@ -1,6 +1,6 @@
 /*! @theme emerald_forest */
 
-/*! @import 'base'; */
+@use './base.scss';
 
 :root {
   --main-color: #2e8b57;

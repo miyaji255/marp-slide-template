@@ -1,3 +1,5 @@
+# このリポジトリは自分用にカスタマイズしたフォークです
+
 ## This repository provides a template for slide creation.
 
 ### Getting Started

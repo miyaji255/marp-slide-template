@@ -1,6 +1,6 @@
 /*! @theme stormy_gray */
 
-/*! @import 'base'; */
+@use './base.scss';
 
 :root {
   --main-color: #708090;
